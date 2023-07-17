@@ -1,0 +1,8 @@
+API_BOT = '5363799869:AAHEOCi1wF_K1r_0DJBDLQhXaBy5sM94Yq0'
+ADMINS = [1727451986]
+
+TELEGRAM_CHANNEL = "https://t.me/scamBf"
+MENEDGER = "https://t.me/wex3er"
+
+
+
